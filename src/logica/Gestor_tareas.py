@@ -1,5 +1,5 @@
-#andrew vega reyes
-#jose Bacilio de la cruz
+#andrew vega reyes.
+#jose Bacilio de la cruz.
 class Tarea:
     def __init__(self, titulo, descripcion):
         self.titulo = titulo
